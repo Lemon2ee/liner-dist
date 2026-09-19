@@ -1,0 +1,36 @@
+{
+  "name": "Liner",
+  "subtitle": "自建的 Roon 替代",
+  "iconURL": "https://raw.githubusercontent.com/Lemon2ee/liner-dist/main/icon.png",
+  "tintColor": "#795a17",
+  "apps": [
+    {
+      "name": "Liner",
+      "bundleIdentifier": "com.lemon2ee.liner",
+      "developerName": "Lemon2ee",
+      "subtitle": "遥控家里的 Liner 服务器",
+      "localizedDescription": "连家里的 Liner 服务器：浏览曲库、遥控 FiiO K17，或者直接在这台设备上播放。首次打开填服务器地址和访问令牌。",
+      "iconURL": "https://raw.githubusercontent.com/Lemon2ee/liner-dist/main/icon.png",
+      "tintColor": "#795a17",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "2",
+          "date": "2026-09-19T13:03:47Z",
+          "localizedDescription": "Liner 1.0.0（构建 2）",
+          "downloadURL": "https://github.com/Lemon2ee/liner-dist/releases/download/v1.0.0/Liner.ipa",
+          "size": 8173357,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Liner 需要访问局域网里的 Liner 服务器：遥控播放，以及在这台设备上播放曲库里的音乐。"
+        }
+      }
+    }
+  ],
+  "news": []
+}
