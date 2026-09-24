@@ -15,19 +15,20 @@
       "category": "entertainment",
       "versions": [
         {
-          "version": "1.1.1",
-          "buildVersion": "6",
-          "date": "2026-09-24T04:52:53Z",
-          "localizedDescription": "Liner 1.1.1（构建 6）",
-          "downloadURL": "https://github.com/Lemon2ee/liner-dist/releases/download/v1.1.1/Liner.ipa",
-          "size": 23046061,
+          "version": "1.1.2",
+          "buildVersion": "7",
+          "date": "2026-09-24T12:35:14Z",
+          "localizedDescription": "Liner 1.1.2（构建 7）",
+          "downloadURL": "https://github.com/Lemon2ee/liner-dist/releases/download/v1.1.2/Liner.ipa",
+          "size": 29018702,
           "minOSVersion": "15.0"
         }
       ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocalNetworkUsageDescription": "Liner 需要访问局域网里的 Liner 服务器：遥控播放，以及在这台设备上播放曲库里的音乐。"
+          "NSLocalNetworkUsageDescription": "Liner 需要访问局域网里的 Liner 服务器：遥控播放，以及在这台设备上播放曲库里的音乐。",
+          "NSPhotoLibraryUsageDescription": "选一张照片做歌单封面"
         }
       }
     }
