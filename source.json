@@ -15,12 +15,12 @@
       "category": "entertainment",
       "versions": [
         {
-          "version": "1.1.0",
-          "buildVersion": "5",
-          "date": "2026-09-21T12:56:29Z",
-          "localizedDescription": "Liner 1.1.0（构建 5）",
-          "downloadURL": "https://github.com/Lemon2ee/liner-dist/releases/download/v1.1.0/Liner.ipa",
-          "size": 23028843,
+          "version": "1.1.1",
+          "buildVersion": "6",
+          "date": "2026-09-24T04:52:53Z",
+          "localizedDescription": "Liner 1.1.1（构建 6）",
+          "downloadURL": "https://github.com/Lemon2ee/liner-dist/releases/download/v1.1.1/Liner.ipa",
+          "size": 23046061,
           "minOSVersion": "15.0"
         }
       ],
